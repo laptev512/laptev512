@@ -1,6 +1,6 @@
-### Hi there 👋
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38183340336339.577ba401a0cb2.gif" width="480"/>
+  ### Hi there 👋
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38183340336339.577ba401a0cb2.gif" width="320"/>
 </p>
 <!--
 **laptev512/laptev512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

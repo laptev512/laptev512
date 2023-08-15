@@ -1,5 +1,7 @@
 <p align="center">
   ### Hi there 👋
+</p>
+<p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38183340336339.577ba401a0cb2.gif" width="320"/>
 </p>
 <!--

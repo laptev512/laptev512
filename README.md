@@ -69,7 +69,9 @@
 |[Система рекомендаций для мобильного приложения](https://github.com/laptev512/analysis_A-B_test)|Обрабатываем данные, расчет метрик: DAU, CR, ROMI. Когортный анализ. Создание воронки. |**Pandas** **Numpy** **Scipy** **Seaborn** **pingouin**|
 |[Создаем Дашборд анализ премирования сотрудников](https://public.tableau.com/views/Monetary_16867321878180/Dashboardemployeebonuses?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), [Canvas](https://github.com/laptev512/Tableau_Dashboard_bonuses/blob/main/Dashboard_Canvas_bonuses.pptx)|Построение графиков с использованием новых полей, верстка дашборда. |**Tableau** **Canvas**|
 
-
+### Обучение:
+![Screenshot_43](https://stepik.org/certificate/79a938fc384b16caffdb3b7341c48f5ace50c039.png?resolution=medium)
+Сертификат доступен по ссылке https://stepik.org/cert/1802691
 <!--
 **laptev512/laptev512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

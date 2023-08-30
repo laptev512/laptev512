@@ -72,6 +72,8 @@
 ### Обучение:
 ![Screenshot_43](https://stepik.org/certificate/79a938fc384b16caffdb3b7341c48f5ace50c039.png?resolution=medium)
 Сертификат доступен по ссылке https://stepik.org/cert/1802691
+![Сертификат](https://raw.githubusercontent.com/laptev512/laptev512/main/certificate_karpov.jpg)
+
 <!--
 **laptev512/laptev512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
